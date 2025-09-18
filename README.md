@@ -4,3 +4,4 @@
 - **I learned**: The difference between Red Team (attackers) and Blue Team (defenders), and why both are crucial.
 - **Tools**: None yet, just conceptual theory.
 - **Next step**: Module “How the Web Works.”
+
