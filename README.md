@@ -23,4 +23,11 @@
   - Using `ipconfig`/`ifconfig` to view my IP on the network.
   - Concepts of `ping` to verify connectivity on the LAN.
 - **Next step**: Module “OSI Model.”
-  
+
+## Day 3 - [2025/09/19]
+### Module: OSI Model
+- **I learned**:
+- The 7 layers: Physical, Link, Network, Transport, Session, Presentation, Application.
+- **Reflection**: 
+  - The module reflects the basis for understanding how data travels and how it is attacked.
+- **Next step**: Module “Packets & Frames”.
