@@ -31,3 +31,15 @@
 - **Reflection**: 
   - The module reflects the basis for understanding how data travels and how it is attacked.
 - **Next step**: Module “Packets & Frames”.
+
+## Day 3 - [2025/09/19]
+### Module: Packets & Frames
+- **I learned**: 
+  - Differences between frames (Ethernet, layer 2) and packets (IP, layer 3).
+  - How TCP's Three-Way Handshake works (SYN, SYN/ACK, ACK).
+  - Characteristics of UDP (connectionless, faster but less reliable).
+  - Practice with common ports and services (e.g., 80=HTTP, 53=DNS).
+- **Application in cybersecurity**:
+  - Basis for traffic analysis with Wireshark.
+  - Port scanning with tools such as Nmap.
+- **Next step**: Module "Extending your netwrok"
