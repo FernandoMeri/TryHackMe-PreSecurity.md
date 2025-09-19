@@ -54,3 +54,13 @@
 - **Application in pentesting**:
   - Bypassing firewalls and using port forwarding to access internal systems.
   - Auditing VPN configurations in corporate environments.
+ 
+## Day 3 - [2025/09/19]
+### Module: DNS in Detail
+- **I learned**: 
+  - How DNS resolution works and the types of records (A, AAAA, MX, CNAME).
+  - The DNS hierarchy: root servers, TLDs, authoritative servers.
+  - Tools: `dig`, `nslookup`.
+- **Application in pentesting**:
+  - Recognition of subdomains and services.
+  - Poisoning attacks and data exfiltration via DNS.
