@@ -11,3 +11,16 @@
 - **I learned**: IP addresses and subnets. Basic network tools: `ping`, `traceroute`, `ipconfig`. How routing and DNS work. .
 - **Tools**: None yet, just conceptual theory.
 - **Next step**: Module “Intro to LAN.”
+
+# Day 3 - [2025/09/19]
+## Day 2: 2025-09-19
+### Module: Intro to LAN
+ **I learned**: 
+  - How local networks are segmented using subnets.
+  - The difference between public and private IP addresses.
+  - How devices find each other on a LAN (ARP).
+- **Commands/uses:** 
+  - Using `ipconfig`/`ifconfig` to view my IP on the network.
+  - Concepts of `ping` to verify connectivity on the LAN.
+- **Next step**: Module “OSI Model.”
+  
