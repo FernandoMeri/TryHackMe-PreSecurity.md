@@ -13,7 +13,7 @@
 - **Next step**: Module “Intro to LAN.”
 
 # Day 3 - [2025/09/19]
-## Day 2: 2025-09-19
+## Day 3: 2025-09-19
 ### Module: Intro to LAN
  **I learned**: 
   - How local networks are segmented using subnets.
