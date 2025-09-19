@@ -43,3 +43,14 @@
   - Basis for traffic analysis with Wireshark.
   - Port scanning with tools such as Nmap.
 - **Next step**: Module "Extending your netwrok"
+
+## Day 3 - [2025/09/19]
+### Module: Extending Your Network
+- **I learned**:
+  - **Port forwarding**: How to redirect external traffic to internal devices.
+  - **Firewalls**: How they filter traffic based on rules (e.g., blocking ports).
+  - **VPNs**: How to create secure tunnels for remote access.
+  - **LAN devices**: Routers, switches, and their roles in the network.
+- **Application in pentesting**:
+  - Bypassing firewalls and using port forwarding to access internal systems.
+  - Auditing VPN configurations in corporate environments.
