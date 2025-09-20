@@ -98,3 +98,12 @@
   - Source code inspection (HTML, CSS, JS).  
   - DNS resolution and its impact on security.  
 - **Next step**: Section 4 - “Linux Fundamentals.”
+
+## Day 4 - [2025/09/20]
+### Module: Linux Fundamentals (Part 1)
+- **Key commands**:  
+  - `ls`, `cd`, `pwd`, `cat`, `echo`, `mkdir`, `rm`.
+- **Concepts**:  
+  - Linux directory structure (e.g., `/home`, `/etc`).  
+  - Absolute vs. relative paths.  
+- **Next step**: Linux Fundamentals (Part 2)
