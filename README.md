@@ -64,3 +64,14 @@
 - **Application in pentesting**:
   - Recognition of subdomains and services.
   - Poisoning attacks and data exfiltration via DNS.
+ 
+## Day 4 - [2025/09/20]
+### Module: HTTP in Detail
+- **I learned**:
+  - HTTP methods (GET, POST, PUT, DELETE) and their use.
+  - Status codes (200, 404, 302, 500) and their meaning.
+  - Common headers (Cookies, User-Agent, Location) and how they affect security.
+  - The importance of HTTPS and TLS encryption.
+- **Application in pentesting**:
+  - Manipulating headers to bypass authentication.
+  - Analyzing requests to find vulnerabilities (e.g., IDOR, CSRF).
