@@ -118,4 +118,22 @@
 - **Concepts**:  
   - Numeric permissions (755 = rwxr-xr-x).  
   - Filtering outputs with `grep` and `|`.  
-- **Next step**: Linux Fundamentals (Part 3) 
+- **Next step**: Linux Fundamentals (Part 3)
+
+## Day 4 - [2025/09/20]
+### Module: Linux Fundamentals (Part 3) - ✅ COMPLETED
+- **Key learning points**:
+- Process management (`ps`, `kill`, `top`).  
+  - Scheduling tasks with `cron` (`crontab -e`).  
+  - Basic scripting in Bash.  
+  - Package management with `apt` and repositories.  
+- **Next step**: Windows Fundamentals (Section 5).
+
+## Day 4 - [2025/09/20]
+### Modules completed:
+- **Network Fundamentals**: DNS, HTTP, networks.
+- **How The Web Works**: HTML, HTTP, servers.
+- **Linux Fundamentals (Parts 1, 2, 3)**: 
+  - Commands: `ps`, `kill`, `cron`, `apt`.
+  - Basic scripting and process management.
+- **Next goal**: Windows Fundamentals.
