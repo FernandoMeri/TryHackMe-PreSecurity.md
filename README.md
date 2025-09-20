@@ -84,4 +84,17 @@
   - How resources (images, scripts) are requested from the server.  
 - **Application in pentesting**:  
   - Analyzing source code to find hidden endpoints or sensitive data.  
-  - Identifying entry points for attacks such as XSS or injections.  
+  - Identifying entry points for attacks such as XSS or injections.
+ 
+## Day 4 - [2025/09/20]
+### Section 3 completed: How The Web Works
+- **Modules completed:**  
+  - HTTP in Detail  
+  - How Websites Work  
+  - DNS in Detail  
+  - Putting it all together  
+- **Skills acquired**:  
+  - Analysis of HTTP/HTTPS requests and headers.  
+  - Source code inspection (HTML, CSS, JS).  
+  - DNS resolution and its impact on security.  
+- **Next step**: Section 4 - “Linux Fundamentals.”
