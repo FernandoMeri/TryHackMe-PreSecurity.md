@@ -75,3 +75,13 @@
 - **Application in pentesting**:
   - Manipulating headers to bypass authentication.
   - Analyzing requests to find vulnerabilities (e.g., IDOR, CSRF).
+ 
+## Day 4 - [2025/09/20]
+### Module: How Websites Work
+- **I learned**:  
+  - How a website is structured with HTML (content), CSS (design), and JavaScript (functionality).  
+  - What the frontend (client) and backend (server) are.  
+  - How resources (images, scripts) are requested from the server.  
+- **Application in pentesting**:  
+  - Analyzing source code to find hidden endpoints or sensitive data.  
+  - Identifying entry points for attacks such as XSS or injections.  
