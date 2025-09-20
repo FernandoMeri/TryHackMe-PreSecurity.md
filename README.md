@@ -107,3 +107,15 @@
   - Linux directory structure (e.g., `/home`, `/etc`).  
   - Absolute vs. relative paths.  
 - **Next step**: Linux Fundamentals (Part 2)
+
+## Day 4 - [2025/09/20]
+### Module: Linux Fundamentals (Part 2)
+- **Key commands**:
+- `grep`: Search for text patterns.
+- `chmod`: Manage permissions (e.g., `chmod 755 file`).
+- `sudo`: Run as root.
+- `|` (pipe): Chain commands.  
+- **Concepts**:  
+  - Numeric permissions (755 = rwxr-xr-x).  
+  - Filtering outputs with `grep` and `|`.  
+- **Next step**: Linux Fundamentals (Part 3) 
