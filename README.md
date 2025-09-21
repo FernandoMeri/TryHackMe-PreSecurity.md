@@ -137,3 +137,78 @@
   - Commands: `ps`, `kill`, `cron`, `apt`.
   - Basic scripting and process management.
 - **Next goal**: Windows Fundamentals.
+
+## Day 5 - [2025/09/21]
+# TryHackMe - Windows Fundamentals (Parts 1, 2, and 3)
+
+## 📌 Summary
+This repository documents my learning in the **Windows Fundamentals** modules from TryHackMe, covering everything from the graphical interface to advanced administration and security tools.
+
+## 🧠 Key Concepts Learned
+
+### Part 1: System Basics
+- **Desktop and GUI**: Components such as the Start Menu, Taskbar, Notification Area, and customization:cite[6].
+- **File System**: Using File Explorer, directory structure, basic permissions.
+- **UAC (User Account Control)**: Permission levels and security alerts.
+- **Control Panel and Settings**: System, network, and hardware settings.
+- **Task Manager**: Process, performance, and service management.
+
+### Part 2: Advanced Utilities
+- **System Tools**:
+  - `msconfig` (System Configuration): Startup, services, and boot management.
+  - `compmgmt.msc` (Computer Management): Users, disks, services:cite[7].
+  - **Resource Monitor**: Real-time monitoring of CPU, RAM, disk, and network.
+- **Other Utilities**: Management console, diagnostic tools.
+
+### Part 3: Security and Maintenance
+- **Windows Updates**: Importance of security patches.
+- **Windows Defender**: Protection against viruses and threats:cite[6].
+- **Windows Firewall**: Configuring network rules.
+- **BitLocker**: Disk encryption and key management.
+- **Volume Shadow Copy**: Backups and restoration.
+- **Device Security**: Password and encryption policies.
+
+## ⚡ Useful Commands and Tools
+### PowerShell (Introduction)
+- `Get-Process`: List active processes.
+- `Get-Service`: View system services.
+- `Start-Service` / `Stop-Service`: Start/stop services:cite[10].
+- `Get-EventLog`: View event logs.
+
+### Network Commands
+- `ipconfig`: View IP configuration.
+- `ping`: Check connectivity.
+- `netstat`: Network connection status.
+
+### Graphical Tools
+- **Windows Defender**: Real-time scanning and protection.
+- **Device Manager**: Hardware management.
+- **Registry Editor**: Advanced system settings (use with caution!).
+
+## 🔍 Application in Cybersecurity
+- **Windows Hardening**: Disable unnecessary services, configure firewall.
+- **Process Monitoring**: Identify malicious processes with `Get-Process`.
+- **Event Analysis**: Search for suspicious events in logs (`Get-EventLog`).
+- **Data Encryption**: Use BitLocker to protect sensitive information.
+
+## 📂 Practical Exercises Performed
+1. **Firewall Configuration**: Create rules to allow/block traffic.
+2. **Service Management**: Disable non-critical services to reduce the attack surface.
+3. **BitLocker**: Simulate USB encryption.
+4. **Volume Shadow Copy**: Restoring files from a backup.
+
+## 🚀 Next Steps
+- Delve deeper into **PowerShell** for task automation:cite[10].
+- Explore **Active Directory** in corporate environments.
+- Practice with Windows pentesting labs (e.g., exploiting vulnerable services).
+
+## 📚 Resources
+- [TryHackMe - Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [Microsoft Docs - Windows Security](https://learn.microsoft.com/en-us/windows/security/)
+- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+
+---
+
+**Notes**:
+- This content is based on TryHackMe modules and official Microsoft documentation.
+- Updated as of September 21, 2025.
